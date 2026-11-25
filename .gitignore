@@ -5,3 +5,10 @@ figures/
 .DS_Store
 Assignment2/APA2026_MID-3K/
 Assignment2/MID-3K-rgb/
+voluntariosAPA_blur.mp4
+
+# Assignment 2 - generated files and large assets
+.colabsync/
+Assignment2/runs/
+Assignment2/*.pt
+Assignment2/voluntariosAPA_blur.mp4
